@@ -123,6 +123,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CheaseRepository.cpp" />
+    <ClCompile Include="CheaseRepository.h" />
     <ClCompile Include="DataLoader.cpp" />
     <ClCompile Include="IngredientSelector.cpp" />
     <ClCompile Include="main.cpp" />
