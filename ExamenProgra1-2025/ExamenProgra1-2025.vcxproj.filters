@@ -30,6 +30,12 @@
     <ClCompile Include="TomatoesRepository.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CheaseRepository.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CheaseRepository.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataLoader.h">
@@ -47,5 +53,11 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="tomatoes.txt" />
+    <Text Include="cheese.txt" />
+    <Text Include="herbs.txt" />
+    <Text Include="meats.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
   </ItemGroup>
 </Project>
